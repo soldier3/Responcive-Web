@@ -131,18 +131,18 @@ footer{
     /* margin: 25px auto 0; */
 }
 
-@media (max-width: 1290px ) and (min-width: 993px){
-    
+@media (max-width: 1200px ) and (min-width: 992px){
     body{
         background: none;
     }
-
+    
     header, section, .partners{
         width: 960px;
     }
+
 }
 
-@media (max-width: 992px) and (min-width: 769px) {
+@media (max-width: 992px) and (min-width: 770px) {
     body{
         background: none;
     }
@@ -174,7 +174,7 @@ footer{
 }
 
 
-@media (max-width: 769px){
+@media (max-width: 770px){
 
     body{
         background: none;
